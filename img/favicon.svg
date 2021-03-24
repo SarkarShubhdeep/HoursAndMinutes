@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="127.183" height="127.183" viewBox="0 0 127.183 127.183">
+  <g id="Group_45" data-name="Group 45" transform="translate(-102.409 -99.935)">
+    <g id="Group_38" data-name="Group 38" transform="translate(46.409 -23.118)">
+      <circle id="Ellipse_39" data-name="Ellipse 39" cx="63.591" cy="63.591" r="63.591" transform="translate(56 123.053)" fill="#e85d04"/>
+      <path id="Path_22" data-name="Path 22" d="M2110.556,3785.645h7.918l-3.917-53.714Z" transform="translate(-1994.924 -3599)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </g>
+    <path id="Path_23" data-name="Path 23" d="M2110.557,3760.818h6.64l-3.285-28.888Z" transform="translate(3876.858 2363.613) rotate(150)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    <g id="Path_39" data-name="Path 39" transform="translate(158 155)" fill="#e85d04">
+      <path d="M 8 14.75 C 4.278039932250977 14.75 1.25 11.72196006774902 1.25 8 C 1.25 4.278039932250977 4.278039932250977 1.25 8 1.25 C 11.72196006774902 1.25 14.75 4.278039932250977 14.75 8 C 14.75 11.72196006774902 11.72196006774902 14.75 8 14.75 Z" stroke="none"/>
+      <path d="M 8 2.5 C 4.967289924621582 2.5 2.5 4.967289924621582 2.5 8 C 2.5 11.03271007537842 4.967289924621582 13.5 8 13.5 C 11.03271007537842 13.5 13.5 11.03271007537842 13.5 8 C 13.5 4.967289924621582 11.03271007537842 2.5 8 2.5 M 8 0 C 12.41827964782715 0 16 3.581720352172852 16 8 C 16 12.41827964782715 12.41827964782715 16 8 16 C 3.581720352172852 16 0 12.41827964782715 0 8 C 0 3.581720352172852 3.581720352172852 0 8 0 Z" stroke="none" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="883" y="1775" width="1259.446" height="1079.995" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Web_1920_19">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_19" data-name="Web 1920 – 19" clip-path="url(#clip-Web_1920_19)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Scroll_Group_1" data-name="Scroll Group 1" transform="translate(-221.484 -1774.703)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <path id="Path_21" data-name="Path 21" d="M0,168.6S660.143,592.445,1275.534,527.183,1998.7-5.881,2645.807,268.17,3441.584-7.907,3668.993.086s367.758,434.883,680.813,405.8S4737.82,268.17,4737.82,268.17V876.839H0Z" transform="matrix(0.545, -0.839, 0.839, 0.545, 339.666, 3973.47)" fill="#f48c06"/>
+      <path id="Path_20" data-name="Path 20" d="M4157.994,652.617S3979.32,468.1,3459.218,577.092s-816.008,73.5-1062.687-208.068S2051.287-.283,1732.52,0,1244.8,206.711,966.827,440.666,0,995.022,0,995.022H4157.994Z" transform="matrix(0.545, -0.839, 0.839, 0.545, 0, 4328.067)" fill="#e85d04"/>
+    </g>
+  </g>
+</svg>
